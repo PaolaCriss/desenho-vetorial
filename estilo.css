@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+}
+img{
+    width: 250px;
+    border-radius: 55%;
+}
+div{
+    background-color:#c9abdbb3;;
+    position:static;
+    text-align:center;
+    font-family: calibri;
+    border: 15px;
+    padding: 30px;
+    width: 75%;
+}
+p{
+    font-size:25px;
+}
